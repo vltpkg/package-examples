@@ -1,6 +1,6 @@
-# guide-examples
+# package-examples
 
-Example packages for publishing guides — one starter for each package manager.
+Single-package examples for publishing — one starter for each package manager.
 
 Each package is a simple TypeScript "hello world" package configured for its respective package manager and vlt registry.
 

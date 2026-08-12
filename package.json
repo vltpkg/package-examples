@@ -1,5 +1,5 @@
 {
-  "name": "guide-examples",
+  "name": "package-examples",
   "version": "0.0.1",
   "description": "Example packages for publishing guides — one starter for each package manager",
   "private": true,
