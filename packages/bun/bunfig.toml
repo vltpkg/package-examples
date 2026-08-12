@@ -1,0 +1,3 @@
+[install.scopes.YOUR-ACCOUNT]
+url = "https://registry.vlt.io/YOUR-ACCOUNT/main/"
+token = "$VLT_TOKEN"
