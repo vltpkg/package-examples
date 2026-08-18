@@ -5,7 +5,8 @@
   "private": true,
   "type": "module",
   "scripts": {
-    "build": "pnpm -r run build"
+    "build": "pnpm -r run build",
+    "lint": "pnpm -r run lint"
   },
   "author": "vlt technology inc. <support@vlt.sh> (http://vlt.sh)"
 }

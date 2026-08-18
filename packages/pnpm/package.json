@@ -1,5 +1,5 @@
 {
-  "name": "@YOUR-ACCOUNT/hello-pnpm",
+  "name": "@YOUR-ACCOUNT/my-package",
   "version": "0.1.0",
   "description": "Hello World package",
   "main": "dist/index.js",
