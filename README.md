@@ -11,7 +11,7 @@ Each package is a simple TypeScript "hello world" package configured for its res
 - **[vlt](./packages/vlt)** — Example using vlt
 - **[npm](./packages/npm)** — Example using npm
 - **[pnpm](./packages/pnpm)** — Example using pnpm
-- **[yarn](./packages/yarn)** — Example using yarn
+- **[yarn](./packages/yarn)** — Example using yarn berry (v2+)
 - **[bun](./packages/bun)** — Example using bun
 - **[deno](./packages/deno)** — Example using deno
 
